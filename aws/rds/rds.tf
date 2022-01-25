@@ -1,6 +1,6 @@
-provider "aws"{
-    region = "af-south-1"
-    shared_credentials_file = "%HOME%/.aws/credentials"
+provider "aws" {
+  region                  = "af-south-1"
+  shared_credentials_file = "%HOME%/.aws/credentials"
 }
 
 resource "aws_db_instance" "default" {
