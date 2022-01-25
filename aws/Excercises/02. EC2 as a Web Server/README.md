@@ -1,4 +1,7 @@
-Launch an EC2 Insance as a web server using Terraform
+Launch an EC2 Instance as a web server using Terraform
+
+![image](https://user-images.githubusercontent.com/37935617/151046247-8cf53a68-f1f3-4f6b-ac11-3e28b317b76e.png)
+
 
 Task Steps
 
