@@ -1,5 +1,7 @@
 Host a S3 Static Website using Terraform
 
+![image](https://user-images.githubusercontent.com/37935617/151226844-e40fb7ac-1939-4954-b7d3-45e9c5c236e8.png)
+
 Task Steps
 
 1. Create a Variables file.
