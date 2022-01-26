@@ -1,5 +1,6 @@
 Host a S3 Static Website using Terraform
 
+![image](https://user-images.githubusercontent.com/37935617/151236442-68c7bf72-c348-4224-a384-ab14829a9877.png)
 
 Task Steps
 
